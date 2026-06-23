@@ -18,5 +18,5 @@ A simple ATM simulation built using Python.
 3. Run:
 
 ```bash
-python atm.py```bash
+python atm.py ```bash
 
